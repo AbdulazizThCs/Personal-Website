@@ -1,6 +1,6 @@
 # Personal-Website
 
-This project is a fully responsive personal website built with pure HTML and CSS. It includes custom sections for profile, education background, technical skills, and social media links — designed for clarity and modern web standards.
+This project is a fully responsive personal website built with pure HTML and CSS. It includes custom sections for profile, education background, technical skills, and social media links. designed for clarity and modern web standards.
 
 # Features
 - Clean modern header with logo.
